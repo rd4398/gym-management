@@ -1,1 +1,1 @@
-# gym-management
+# Gym Management System using Java and MySQL
